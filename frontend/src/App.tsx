@@ -2,6 +2,7 @@ import { Canvas } from '@react-three/fiber'
 import VideoBackground from './components/VideoBackground'
 import StarField from './components/StarField'
 import TimelineNav from './components/TimelineNav'
+import BackendStatus from './components/BackendStatus'
 
 /**
  * Root layout — composes the three visual layers:
@@ -38,6 +39,9 @@ export default function App() {
         {/* Timeline at bottom */}
         <TimelineNav />
       </div>
+
+      {/* ── Backend health badge ── */}
+      <BackendStatus />
     </div>
   )
 }
