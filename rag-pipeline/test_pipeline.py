@@ -86,6 +86,9 @@ def main() -> None:
         "What is the Big Bang theory and when did it happen?",
         "Tell me about the James Webb Space Telescope",
         "Where is our Solar System located in the Milky Way?",
+        "What is cosmic inflation and how did it shape the universe?",
+        "When did recombination happen and what did it produce?",
+        "What were the first stars at Cosmic Dawn?",
     ]
 
     for query_text in queries:
