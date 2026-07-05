@@ -1,0 +1,13 @@
+The James Webb Space Telescope (JWST): A New Era of Astronomy
+
+The James Webb Space Telescope (JWST) is a large infrared space telescope launched on December 25, 2021, aboard an Ariane 5 rocket from Kourou, French Guiana. It is a joint project of NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA). With a 6.5-meter primary mirror composed of 18 hexagonal gold-coated beryllium segments, JWST is the largest and most powerful space telescope ever built.
+
+JWST orbits the Sun near the second Lagrange point (L2), approximately 1.5 million kilometers from Earth. At this location, the telescope can maintain a stable thermal environment and keep its sunshield — a five-layer, tennis-court-sized structure — positioned between the telescope and the Sun, Earth, and Moon. This allows the instruments to operate at extremely cold temperatures (below 50 Kelvin, or -223 degrees Celsius), which is essential for infrared observations.
+
+The telescope carries four main scientific instruments: the Near-Infrared Camera (NIRCam), the Near-Infrared Spectrograph (NIRSpec), the Mid-Infrared Instrument (MIRI), and the Fine Guidance Sensor / Near InfraRed Imager and Slitless Spectrograph (FGS/NIRISS). Together, these instruments cover wavelengths from 0.6 to 28.5 micrometers.
+
+JWST's primary science goals include observing the first galaxies that formed after the Big Bang, studying how galaxies assemble over cosmic time, investigating star formation within dust clouds, and analyzing the atmospheres of exoplanets for signs of habitability. In its first year of operations, JWST discovered some of the most distant galaxies ever observed, with some dating to within 300 million years of the Big Bang — far earlier than previously thought possible.
+
+One of JWST's most groundbreaking early results was the detection of carbon dioxide in the atmosphere of exoplanet WASP-39 b, marking the first definitive detection of CO2 in an exoplanet atmosphere. The telescope has also provided unprecedented views of nearby star-forming regions like the Carina Nebula and the iconic Pillars of Creation in the Eagle Nebula, revealing previously hidden details in infrared light.
+
+The telescope's nominal mission lifetime is 10 years, though its efficient launch trajectory conserved enough fuel for potentially 20 or more years of operation. JWST represents a transformative leap in observational astronomy, enabling scientists to peer deeper into the universe than ever before.

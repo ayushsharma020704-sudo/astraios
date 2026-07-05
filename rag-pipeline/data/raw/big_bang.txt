@@ -1,0 +1,11 @@
+The Big Bang and the Origin of the Universe
+
+The Big Bang theory is the prevailing cosmological model explaining the origin of the universe. According to this theory, the universe began approximately 13.8 billion years ago from an extremely hot, dense initial state and has been expanding ever since.
+
+In the first fractions of a second after the Big Bang, the universe underwent a period of rapid exponential expansion known as cosmic inflation. During this phase, the universe expanded by a factor of at least 10^26 in less than 10^-32 seconds. This inflationary epoch smoothed out the initial density fluctuations and set the stage for the large-scale structure we observe today.
+
+As the universe cooled, fundamental particles — quarks and leptons — formed within the first microsecond. By about three minutes after the Big Bang, the temperature had dropped enough for nuclear fusion to occur, producing light elements such as hydrogen, helium, and trace amounts of lithium in a process called Big Bang nucleosynthesis. Roughly 75% of the baryonic matter produced was hydrogen and about 25% was helium.
+
+For the next 380,000 years, the universe remained a hot, opaque plasma of photons, electrons, and atomic nuclei. When the temperature fell below about 3,000 Kelvin, electrons combined with nuclei to form neutral atoms in an event known as recombination. This released photons from the plasma, creating the Cosmic Microwave Background (CMB) radiation — the oldest light in the universe, first detected by Arno Penzias and Robert Wilson in 1965.
+
+The CMB provides a snapshot of the universe at this early epoch and has been mapped with extraordinary precision by missions such as COBE, WMAP, and the Planck satellite. These observations confirm the universe is approximately 13.8 billion years old, is geometrically flat, and is composed of roughly 5% ordinary matter, 27% dark matter, and 68% dark energy.
