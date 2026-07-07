@@ -4,3 +4,8 @@ __pycache__/
 __pycache__
 .venv/
 *.pyc
+
+*.txt
+!requirements.txt
+!README.txt
+*.log

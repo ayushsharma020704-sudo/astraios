@@ -10,6 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from core.config import settings
 from routers.health import router as health_router
+from routers.mission import router as mission_router
 
 # ---------------------------------------------------------------------------
 # App
@@ -38,6 +39,7 @@ app.add_middleware(
 # ---------------------------------------------------------------------------
 
 app.include_router(health_router)
+app.include_router(mission_router)
 
 # ---------------------------------------------------------------------------
 # WebSocket stub — placeholder for real-time mission chat
